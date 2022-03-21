@@ -8,7 +8,7 @@ As per the past year, I have established a powerful interest in JavaScript, Reac
 I am always open for conversation.
 
 To contact me,
-Email: joshuapattonweb@gmail.com
+Email: joshuapattonweb@gmail.com </br>
 Linkedin: https://www.linkedin.com/in/joshuapattonweb/
 
 <!--
