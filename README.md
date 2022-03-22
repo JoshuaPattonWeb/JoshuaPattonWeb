@@ -11,6 +11,9 @@ To contact me,
 Email: joshuapattonweb@gmail.com </br>
 Linkedin: https://www.linkedin.com/in/joshuapattonweb/
 
+Thanks,
+Josh!
+
 <!--
 **JoshuaPattonWeb/JoshuaPattonWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
